@@ -1,0 +1,23 @@
+{
+  "name": "romantodecimaltdd",
+  "version": "1.0.0",
+  "description": "Convertidor de romanos a decimales en Node.js con pruebas unitarias y haciendo uso de la práctica de desarrollo TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tinez7g/AppsEmpresariales_RomanToDecimalTDD.git"
+  },
+  "author": "Juan Martínez <tinez7g@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tinez7g/AppsEmpresariales_RomanToDecimalTDD/issues"
+  },
+  "homepage": "https://github.com/tinez7g/AppsEmpresariales_RomanToDecimalTDD#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5"
+  }
+}
